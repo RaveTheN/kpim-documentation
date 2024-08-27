@@ -7,7 +7,6 @@ It acts as a central hub for aggregating data from various sources. By consolida
 Through intuitive visualization tools such as dashboards, charts, and graphs, KPI Manager presents KPIs in a clear and accessible manner. This allows stakeholders to quickly see trends, patterns, and outliers within the data, facilitating informed decision-making.
 
 <h3>Images</h3>
-![Screenshot 2024-08-26 152029](https://github.com/user-attachments/assets/0fe23c11-e270-4e79-86d8-db9b6045e8af)
 
 ![Screenshot 2024-08-26 153019](https://github.com/user-attachments/assets/036c861e-0b12-4f82-9982-0e00e125a087)
 

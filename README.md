@@ -1,12 +1,12 @@
-DE KPI Manager
-Description
+<h1>DE KPI Manager</h1>
+<h3>Description</h3>
 
 The DE KPI (Key Performance Indicator) Manager is one of the enabling services of the Digital enabler platform. It is designed to help businesses track, analyze, and manage their key performance metrics effectively. 
 Its primary purpose is to provide insights into the performance of various aspects of an organization, a project, a solution, enabling informed decision-making and strategic planning. 
 It acts as a central hub for aggregating data from various sources. By consolidating data from disparate systems and databases, the KPI Manager provides a unified view of performance metrics.
 Through intuitive visualization tools such as dashboards, charts, and graphs, KPI Manager presents KPIs in a clear and accessible manner. This allows stakeholders to quickly see trends, patterns, and outliers within the data, facilitating informed decision-making.
 
-Images
+<h3>Images</h3>
 ![Screenshot 2024-08-26 152029](https://github.com/user-attachments/assets/83ae13c2-1bcf-4652-a5f0-e443e8c4bcc2)
 
 ![Screenshot 2024-08-26 153019](https://github.com/user-attachments/assets/036c861e-0b12-4f82-9982-0e00e125a087)
@@ -19,14 +19,14 @@ Images
 
 ![Screenshot 2024-08-26 171427](https://github.com/user-attachments/assets/c8fd40de-9e79-4aea-a689-3b51c7fc0a6b)
 
-License
+<h3>License:</h3>
 
 Coming soon.
 
-External Technical Resources
+<h3>External Technical Resources:</h3>
 
 Coming soon.
 
-User Guide References
+<h3>User Guide:</h3>
 
-DE KPI Manager - User Guide (WIP).pdf
+https://github.com/RaveTheN/kpim-documentation/blob/main/DE%20KPI%20Manager%20-%20User%20Guide%20(WIP).pdf

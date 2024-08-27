@@ -29,3 +29,4 @@ Coming soon.
 
 User Guide References
 
+DE KPI Manager - User Guide (WIP).pdf

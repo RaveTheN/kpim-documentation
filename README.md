@@ -8,6 +8,8 @@ Through intuitive visualization tools such as dashboards, charts, and graphs, KP
 
 <h3>Images</h3>
 
+![Screenshot 2024-08-26 152029](https://github.com/user-attachments/assets/863f2445-7b29-4c95-8908-d538290a7b11)
+
 ![Screenshot 2024-08-26 153019](https://github.com/user-attachments/assets/036c861e-0b12-4f82-9982-0e00e125a087)
 
 ![Screenshot 2024-08-26 165810](https://github.com/user-attachments/assets/fbd728df-46ac-4cdc-ad05-d876d1ff173b)

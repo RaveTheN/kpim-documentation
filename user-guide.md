@@ -60,6 +60,7 @@ When you first open DE KPI Manager, you’ll be presented with the main dashboar
 ### User Profile & Settings:
 - Located at the bottom left, you can manage your profile, switch languages, and log out.
   - **Language Settings**: Toggle between English and Italian for the interface language.
+
 ![image](https://github.com/user-attachments/assets/8eba1663-9e35-46bd-9a8d-6069255c8afb)
 
 ---
@@ -102,6 +103,7 @@ After clicking "SAVE," the next step is to define the KPI in detail by setting t
 ### 4. Map Integration (Optional):
 
 If your KPI has a geographic position, use the map section to select or visualize relevant locations. This can be useful for KPIs related to regional performance or location-specific metrics. To access the map integration feature:
+
 ![image](https://github.com/user-attachments/assets/76484403-e140-4409-849f-00a639a09e08)
 
 ### 1. Opening the Map:
@@ -134,11 +136,14 @@ After defining your KPI, the next crucial step is to create the formula that wil
 ### 1. Drag and Drop a Measure:
 - In  the "Formula" step, you will see a list of available measures on the right-hand side under the "KPI/Measures" section.
 - To add a measure to your formula, click and drag the measure's name and drop it into the "KPI Formula" field on the left.
+
 ![image](https://github.com/user-attachments/assets/4d27d463-2510-4081-8c4d-12266f70dbab)
 
 ### 2. Selecting an Operation:
 - Once you drop the measure into the formula field, a drop-down menu will automatically appear, allowing you to select an operation to apply to the measure.
+
 ![image](https://github.com/user-attachments/assets/892a8ad8-d355-4fed-8590-6758ec783f9d)
+
 - Available operations include:
   - Max (max): Maximum value.
   - Min (min): Minimum value.
@@ -155,6 +160,7 @@ After defining your KPI, the next crucial step is to create the formula that wil
 
 ### 4. KPI Scheduling:
 - o	Below the formula field, you can set how often the KPI calculation should be updated by specifying the time interval (e.g., every 12 hours).
+
 ![image](https://github.com/user-attachments/assets/c502f140-c5cf-43cb-abfa-4599a3c7558d)
 
 
@@ -235,6 +241,7 @@ Ensure that the KPI status is set to active if you want it to start collecting a
 
 ### 4. Final Adjustments:
 If you notice any errors or if something needs to be adjusted, you can go back to the relevant section (Definition, Formula, or Dashboard) using the navigation tabs at the top.
+
 ![image](https://github.com/user-attachments/assets/809bc52c-3e4f-4d7a-acaa-d1dbca0110a2)
 
 
@@ -290,6 +297,7 @@ Use the three-dot menu next to each KPI for the following options:
 
 ### Search Functionality:
 - Located at the top of the KPI list, the search bar allows you to quickly find specific KPIs by name or description.
+
 ![image](https://github.com/user-attachments/assets/df65b44c-39e5-4d3d-83b7-43916a2fb0c7)
 
 

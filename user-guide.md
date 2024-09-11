@@ -44,6 +44,7 @@
 
 ## 1. Getting Started
 When you first open DE KPI Manager, you’ll be presented with the main dashboard where you can view, create, and manage your KPIs.
+
 ![image](https://github.com/user-attachments/assets/77dc78a9-e81e-489b-910c-2da6c465cad3)
 
 ---
